@@ -1,0 +1,8 @@
+C:\Users\Florian\OneDrive\Desktop\set 1\bin\Debug\set 1.exe.config
+C:\Users\Florian\OneDrive\Desktop\set 1\bin\Debug\set 1.exe
+C:\Users\Florian\OneDrive\Desktop\set 1\bin\Debug\set 1.pdb
+C:\Users\Florian\OneDrive\Desktop\set 1\obj\Debug\set 1.csproj.AssemblyReference.cache
+C:\Users\Florian\OneDrive\Desktop\set 1\obj\Debug\set 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Florian\OneDrive\Desktop\set 1\obj\Debug\set 1.csproj.CoreCompileInputs.cache
+C:\Users\Florian\OneDrive\Desktop\set 1\obj\Debug\set 1.exe
+C:\Users\Florian\OneDrive\Desktop\set 1\obj\Debug\set 1.pdb
